@@ -9,7 +9,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://welsh-gpt-backend-2.onrender.com/openapi.yaml"
+    "url": "https://welsh-gpt-backend-2.onrender.com/.well-known/openapi.yaml"
   },
   "logo_url": "https://welsh-gpt-backend-2.onrender.com/logo.png",
   "contact_email": "laprice90@gmail.com",

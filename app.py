@@ -28,3 +28,4 @@ if __name__ == "__main__":
 
 from fastapi.staticfiles import StaticFiles
 app.mount("/.well-known", StaticFiles(directory=".well-known"), name="static")
+

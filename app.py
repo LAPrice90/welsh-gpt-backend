@@ -25,3 +25,6 @@ def get_allowed(section: int, unit: int):
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8000))
     uvicorn.run("app:app", host="0.0.0.0", port=port)
+
+from fastapi.staticfiles import StaticFiles
+app.mount("/.well-known", StaticFiles(directory=".well-known"), name="static")

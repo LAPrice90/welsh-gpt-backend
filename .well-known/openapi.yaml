@@ -1,0 +1,34 @@
+openapi: 3.0.1
+info:
+  title: Welsh Vocab API
+  version: "1.0"
+servers:
+  - url: https://welsh-gpt-backend-2.onrender.com
+paths:
+  /allowed:
+    get:
+      operationId: getAllowedVocab
+      summary: Get unlocked Welsh vocabulary
+      parameters:
+        - in: query
+          name: section
+          schema:
+            type: integer
+          required: true
+        - in: query
+          name: unit
+          schema:
+            type: integer
+          required: true
+      responses:
+        "200":
+          description: Allowed token list
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  allowed:
+                    type: array
+                    items:
+                      type: string

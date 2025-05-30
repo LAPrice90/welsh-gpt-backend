@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Welsh Vocab GPT",
+  "name_for_model": "welsh_vocab_gpt",
+  "description_for_human": "Accesses allowed Welsh words based on learning section and unit.",
+  "description_for_model": "Call this API to get allowed Welsh words for the user, based on their course section and unit.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://welsh-gpt-backend-2.onrender.com/openapi.yaml"
+  },
+  "logo_url": "https://welsh-gpt-backend-2.onrender.com/logo.png",
+  "contact_email": "laprice90@gmail.com",
+  "legal_info_url": "https://welsh-gpt-backend-2.onrender.com/legal"
+}

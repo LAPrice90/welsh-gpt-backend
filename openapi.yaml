@@ -3,7 +3,7 @@ info:
   title: Welsh Vocab API
   version: "1.0"
 servers:
-  - url: https://9074-151-2-167-179.ngrok-free.app
+  - url: https://welsh-gpt-backend-2.onrender.com
 paths:
   /allowed:
     get:

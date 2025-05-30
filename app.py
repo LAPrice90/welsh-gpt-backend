@@ -3,6 +3,7 @@ import os
 import pandas as pd
 from fastapi import FastAPI, HTTPException
 import uvicorn
+from fastapi.staticfiles import StaticFiles
 
 df = pd.read_excel("data/welsh_vocab.xlsx", engine="openpyxl")
 CORE_SET = {"dw", "i", "yn", "y", "a", "ond"}  # always-allowed tokens
@@ -29,3 +30,4 @@ if __name__ == "__main__":
 from fastapi.staticfiles import StaticFiles
 app.mount("/.well-known", StaticFiles(directory=".well-known"), name="static")
 
+app.mount("/.well-known", StaticFiles(directory=os.path.join(os.path.dirname(__file__), ".well-known")), name="static")

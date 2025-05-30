@@ -12,14 +12,14 @@ paths:
       parameters:
         - in: query
           name: section
+          required: true
           schema:
             type: integer
-          required: true
         - in: query
           name: unit
+          required: true
           schema:
             type: integer
-          required: true
       responses:
         "200":
           description: Allowed token list

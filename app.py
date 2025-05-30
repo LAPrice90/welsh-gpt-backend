@@ -1,4 +1,3 @@
-# app.py – FastAPI micro-service
 import os
 import pandas as pd
 from fastapi import FastAPI, HTTPException
@@ -22,10 +21,8 @@ def get_allowed(section: int, unit: int):
     except Exception as e:
         raise HTTPException(400, str(e))
 
-# This block is required for Render to bind to the correct port
+app.mount("/.well-known", StaticFiles(directory=os.path.join(os.path.dirname(__file__), ".well-known")), name="static")
+
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8000))
     uvicorn.run("app:app", host="0.0.0.0", port=port)
-
-from fastapi.staticfiles import StaticFiles
-app.mount("/.well-known", StaticFiles(directory=os.path.join(os.path.dirname(__file__), ".well-known")), name="static")

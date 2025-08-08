@@ -1,0 +1,444 @@
+{
+  "updated_at": "2025-08-08T10:00:04.490Z",
+  "summary": {
+    "days_tracked": 2,
+    "total_phrases": 19,
+    "status_counts": {
+      "learned": 14,
+      "daily_drill": 4,
+      "needs_review": 1
+    }
+  },
+  "by_status": {
+    "learned": [
+      {
+        "day": 1,
+        "welsh": "Bore da",
+        "english": "Good morning",
+        "pronunciation": "BO-reh dah",
+        "grammar_notes": "Standard greeting",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Greeting",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Prynhawn da",
+        "english": "Good afternoon",
+        "pronunciation": "PRIN-hown dah",
+        "grammar_notes": "prynhawn = afternoon",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Greeting",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Noswaith dda",
+        "english": "Good evening",
+        "pronunciation": "noss-wythe thah",
+        "grammar_notes": "dd = soft \"th\"",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Greeting",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Nos da",
+        "english": "Good night",
+        "pronunciation": "noss dah",
+        "grammar_notes": "Used at bedtime",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Parting / bedtime",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Sut wyt ti?",
+        "english": "How are you? (informal)",
+        "pronunciation": "sit oot tee",
+        "grammar_notes": "wyt = are (you), informal",
+        "confidence": 4,
+        "status": "learned",
+        "use": "Small talk",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Da iawn",
+        "english": "Very good",
+        "pronunciation": "dah yahwn",
+        "grammar_notes": "iawn = good, \"da\" = very",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Reply to question",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Diolch",
+        "english": "Thank you",
+        "pronunciation": "DEE-olch",
+        "grammar_notes": "ch = like Scottish \"loch\"",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Gratitude",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Croeso",
+        "english": "You're welcome",
+        "pronunciation": "CROY-soh",
+        "grammar_notes": "Literal: welcome",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Reply to thanks",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Dw i’n hoffi…",
+        "english": "I like…",
+        "pronunciation": "doo een HOFF-ee",
+        "grammar_notes": "dw i’n = I am, \"hoffi\" = like",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Expressing likes",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Dw i ddim yn hoffi…",
+        "english": "I don’t like…",
+        "pronunciation": "doo ee dhim un HOFF-ee",
+        "grammar_notes": "ddim = not",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Expressing dislikes",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Ble mae…?",
+        "english": "Where is…?",
+        "pronunciation": "bleh my",
+        "grammar_notes": "mae = is (3rd person)",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Asking location",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Dw i eisiau…",
+        "english": "I want…",
+        "pronunciation": "doo ee ESH-yai",
+        "grammar_notes": "eisiau = want",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Making requests",
+        "notes": ""
+      },
+      {
+        "day": 2,
+        "welsh": "Dw i’n byw yn Port Talbot",
+        "english": "I live in Port Talbot",
+        "pronunciation": "doo een bihw un Port Talbot",
+        "grammar_notes": "byw = live, \"yn\" = in. No mutation needed for English place names",
+        "confidence": 4,
+        "status": "learned",
+        "use": "Sharing where you live",
+        "notes": ""
+      },
+      {
+        "day": 2,
+        "welsh": "A ti?",
+        "english": "And you?",
+        "pronunciation": "ah tee",
+        "grammar_notes": "Informal return question. \"a\" = and, \"ti\" = you",
+        "confidence": 4,
+        "status": "learned",
+        "use": "Used in small talk or to mirror a question",
+        "notes": ""
+      }
+    ],
+    "daily_drill": [
+      {
+        "day": 1,
+        "welsh": "Dw i ddim yn gwybod",
+        "english": "I don’t know",
+        "pronunciation": "doo ee dhim un GWI-bod",
+        "grammar_notes": "ddim = not, \"gwybod\" = know",
+        "confidence": 2,
+        "status": "daily_drill",
+        "use": "Reply when unsure",
+        "notes": ""
+      },
+      {
+        "day": 2,
+        "welsh": "Beth yw dy enw di?",
+        "english": "What’s your name?",
+        "pronunciation": "beth you duh EN-noo dee",
+        "grammar_notes": "dy = your, \"di\" = you (emphasis). Literal: \"What is your name you?\"",
+        "confidence": 2,
+        "status": "daily_drill",
+        "use": "Starting a conversation",
+        "notes": ""
+      },
+      {
+        "day": 2,
+        "welsh": "Enw fi yw Luke",
+        "english": "My name is Luke",
+        "pronunciation": "EN-noo vee you",
+        "grammar_notes": "fi = me, \"yw\" = is. Literal: \"Name of me is Luke\"",
+        "confidence": 3,
+        "status": "daily_drill",
+        "use": "Reply to name question",
+        "notes": ""
+      },
+      {
+        "day": 2,
+        "welsh": "Os gwelwch yn dda",
+        "english": "Please (formal)",
+        "pronunciation": "os GWELL-ooch un tha",
+        "grammar_notes": "Os = if, \"gwelwch\" = you see, \"yn dda\" = good",
+        "confidence": 2,
+        "status": "daily_drill",
+        "use": "Polite/formal requests",
+        "notes": ""
+      }
+    ],
+    "needs_review": [
+      {
+        "day": 2,
+        "welsh": "Braf cwrdd â ti",
+        "english": "Nice to meet you",
+        "pronunciation": "brav koord â tee",
+        "grammar_notes": "cwrdd â = meet with. \"â\" means \"with\", not \"and\"",
+        "confidence": 3,
+        "status": "needs_review",
+        "use": "Follow-up after introductions",
+        "notes": ""
+      }
+    ]
+  },
+  "by_day": {
+    "1": [
+      {
+        "day": 1,
+        "welsh": "Bore da",
+        "english": "Good morning",
+        "pronunciation": "BO-reh dah",
+        "grammar_notes": "Standard greeting",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Greeting",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Prynhawn da",
+        "english": "Good afternoon",
+        "pronunciation": "PRIN-hown dah",
+        "grammar_notes": "prynhawn = afternoon",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Greeting",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Noswaith dda",
+        "english": "Good evening",
+        "pronunciation": "noss-wythe thah",
+        "grammar_notes": "dd = soft \"th\"",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Greeting",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Nos da",
+        "english": "Good night",
+        "pronunciation": "noss dah",
+        "grammar_notes": "Used at bedtime",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Parting / bedtime",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Sut wyt ti?",
+        "english": "How are you? (informal)",
+        "pronunciation": "sit oot tee",
+        "grammar_notes": "wyt = are (you), informal",
+        "confidence": 4,
+        "status": "learned",
+        "use": "Small talk",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Da iawn",
+        "english": "Very good",
+        "pronunciation": "dah yahwn",
+        "grammar_notes": "iawn = good, \"da\" = very",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Reply to question",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Diolch",
+        "english": "Thank you",
+        "pronunciation": "DEE-olch",
+        "grammar_notes": "ch = like Scottish \"loch\"",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Gratitude",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Croeso",
+        "english": "You're welcome",
+        "pronunciation": "CROY-soh",
+        "grammar_notes": "Literal: welcome",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Reply to thanks",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Dw i’n hoffi…",
+        "english": "I like…",
+        "pronunciation": "doo een HOFF-ee",
+        "grammar_notes": "dw i’n = I am, \"hoffi\" = like",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Expressing likes",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Dw i ddim yn hoffi…",
+        "english": "I don’t like…",
+        "pronunciation": "doo ee dhim un HOFF-ee",
+        "grammar_notes": "ddim = not",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Expressing dislikes",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Ble mae…?",
+        "english": "Where is…?",
+        "pronunciation": "bleh my",
+        "grammar_notes": "mae = is (3rd person)",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Asking location",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Dw i eisiau…",
+        "english": "I want…",
+        "pronunciation": "doo ee ESH-yai",
+        "grammar_notes": "eisiau = want",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Making requests",
+        "notes": ""
+      },
+      {
+        "day": 1,
+        "welsh": "Dw i ddim yn gwybod",
+        "english": "I don’t know",
+        "pronunciation": "doo ee dhim un GWI-bod",
+        "grammar_notes": "ddim = not, \"gwybod\" = know",
+        "confidence": 2,
+        "status": "daily_drill",
+        "use": "Reply when unsure",
+        "notes": ""
+      }
+    ],
+    "2": [
+      {
+        "day": 2,
+        "welsh": "Beth yw dy enw di?",
+        "english": "What’s your name?",
+        "pronunciation": "beth you duh EN-noo dee",
+        "grammar_notes": "dy = your, \"di\" = you (emphasis). Literal: \"What is your name you?\"",
+        "confidence": 2,
+        "status": "daily_drill",
+        "use": "Starting a conversation",
+        "notes": ""
+      },
+      {
+        "day": 2,
+        "welsh": "Enw fi yw Luke",
+        "english": "My name is Luke",
+        "pronunciation": "EN-noo vee you",
+        "grammar_notes": "fi = me, \"yw\" = is. Literal: \"Name of me is Luke\"",
+        "confidence": 3,
+        "status": "daily_drill",
+        "use": "Reply to name question",
+        "notes": ""
+      },
+      {
+        "day": 2,
+        "welsh": "Braf cwrdd â ti",
+        "english": "Nice to meet you",
+        "pronunciation": "brav koord â tee",
+        "grammar_notes": "cwrdd â = meet with. \"â\" means \"with\", not \"and\"",
+        "confidence": 3,
+        "status": "needs_review",
+        "use": "Follow-up after introductions",
+        "notes": ""
+      },
+      {
+        "day": 2,
+        "welsh": "Dw i’n byw yn Port Talbot",
+        "english": "I live in Port Talbot",
+        "pronunciation": "doo een bihw un Port Talbot",
+        "grammar_notes": "byw = live, \"yn\" = in. No mutation needed for English place names",
+        "confidence": 4,
+        "status": "learned",
+        "use": "Sharing where you live",
+        "notes": ""
+      },
+      {
+        "day": 2,
+        "welsh": "A ti?",
+        "english": "And you?",
+        "pronunciation": "ah tee",
+        "grammar_notes": "Informal return question. \"a\" = and, \"ti\" = you",
+        "confidence": 4,
+        "status": "learned",
+        "use": "Used in small talk or to mirror a question",
+        "notes": ""
+      },
+      {
+        "day": 2,
+        "welsh": "Os gwelwch yn dda",
+        "english": "Please (formal)",
+        "pronunciation": "os GWELL-ooch un tha",
+        "grammar_notes": "Os = if, \"gwelwch\" = you see, \"yn dda\" = good",
+        "confidence": 2,
+        "status": "daily_drill",
+        "use": "Polite/formal requests",
+        "notes": ""
+      }
+    ]
+  }
+}

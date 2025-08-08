@@ -1,12 +1,12 @@
 {
-  "updated_at": "2025-08-08T11:12:15.482Z",
+  "updated_at": "2025-08-08T12:12:12.333Z",
   "summary": {
-    "days_tracked": 2,
-    "total_phrases": 19,
+    "days_tracked": 3,
+    "total_phrases": 24,
     "status_counts": {
-      "learned": 14,
-      "daily_drill": 4,
-      "needs_review": 1
+      "learned": 17,
+      "daily_drill": 5,
+      "needs_review": 2
     }
   },
   "by_status": {
@@ -164,6 +164,39 @@
         "status": "learned",
         "use": "Used in small talk or to mirror a question",
         "notes": ""
+      },
+      {
+        "day": 3,
+        "welsh": "Dw i’n dysgu Cymraeg",
+        "english": "I am learning Welsh",
+        "pronunciation": "doo een DUS-gee kum-RYEg",
+        "grammar_notes": "dw i’n = I am, \"dysgu\" = learn/learning, \"Cymraeg\" = Welsh (language)",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Language learning",
+        "notes": "Good pronunciation; reinforce vowel in \"Cymraeg\""
+      },
+      {
+        "day": 3,
+        "welsh": "Dw i’n byw yng Nghymru",
+        "english": "I live in Wales",
+        "pronunciation": "doo een bihw ung KHUM-ree",
+        "grammar_notes": "byw = live, \"yng\" causes nasal mutation of \"Cymru\" to \"Nghymru\"",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Sharing location",
+        "notes": "Mutation rule remembered; link to other place names"
+      },
+      {
+        "day": 3,
+        "welsh": "Wyt ti’n siarad Cymraeg?",
+        "english": "Do you speak Welsh? (informal)",
+        "pronunciation": "ooit teen SHAH-rad kum-RYEg",
+        "grammar_notes": "wyt ti’n = are you (informal), \"siarad\" = speak",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Asking about language ability",
+        "notes": "Strong recall; confident question form"
       }
     ],
     "daily_drill": [
@@ -210,6 +243,17 @@
         "status": "daily_drill",
         "use": "Polite/formal requests",
         "notes": ""
+      },
+      {
+        "day": 3,
+        "welsh": "Dw i’n dysgu ychydig",
+        "english": "I’m learning a little",
+        "pronunciation": "doo een DUS-gee uh-CHID-ig",
+        "grammar_notes": "ychydig = a little / a small amount",
+        "confidence": 3,
+        "status": "daily_drill",
+        "use": "Describing progress",
+        "notes": "Spelling issue with \"ychydig\"; practise hook \"you could dig\""
       }
     ],
     "needs_review": [
@@ -223,6 +267,17 @@
         "status": "needs_review",
         "use": "Follow-up after introductions",
         "notes": ""
+      },
+      {
+        "day": 3,
+        "welsh": "Dw i’n newydd ddechrau",
+        "english": "I have just started",
+        "pronunciation": "doo een NEH-with THEKH-rye",
+        "grammar_notes": "newydd = recently/new, \"ddechrau\" = start (soft mutation)",
+        "confidence": 4,
+        "status": "needs_review",
+        "use": "Describing new activity",
+        "notes": "Confident production; mutation clear"
       }
     ]
   },
@@ -438,6 +493,63 @@
         "status": "daily_drill",
         "use": "Polite/formal requests",
         "notes": ""
+      }
+    ],
+    "3": [
+      {
+        "day": 3,
+        "welsh": "Dw i’n dysgu Cymraeg",
+        "english": "I am learning Welsh",
+        "pronunciation": "doo een DUS-gee kum-RYEg",
+        "grammar_notes": "dw i’n = I am, \"dysgu\" = learn/learning, \"Cymraeg\" = Welsh (language)",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Language learning",
+        "notes": "Good pronunciation; reinforce vowel in \"Cymraeg\""
+      },
+      {
+        "day": 3,
+        "welsh": "Dw i’n byw yng Nghymru",
+        "english": "I live in Wales",
+        "pronunciation": "doo een bihw ung KHUM-ree",
+        "grammar_notes": "byw = live, \"yng\" causes nasal mutation of \"Cymru\" to \"Nghymru\"",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Sharing location",
+        "notes": "Mutation rule remembered; link to other place names"
+      },
+      {
+        "day": 3,
+        "welsh": "Wyt ti’n siarad Cymraeg?",
+        "english": "Do you speak Welsh? (informal)",
+        "pronunciation": "ooit teen SHAH-rad kum-RYEg",
+        "grammar_notes": "wyt ti’n = are you (informal), \"siarad\" = speak",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Asking about language ability",
+        "notes": "Strong recall; confident question form"
+      },
+      {
+        "day": 3,
+        "welsh": "Dw i’n dysgu ychydig",
+        "english": "I’m learning a little",
+        "pronunciation": "doo een DUS-gee uh-CHID-ig",
+        "grammar_notes": "ychydig = a little / a small amount",
+        "confidence": 3,
+        "status": "daily_drill",
+        "use": "Describing progress",
+        "notes": "Spelling issue with \"ychydig\"; practise hook \"you could dig\""
+      },
+      {
+        "day": 3,
+        "welsh": "Dw i’n newydd ddechrau",
+        "english": "I have just started",
+        "pronunciation": "doo een NEH-with THEKH-rye",
+        "grammar_notes": "newydd = recently/new, \"ddechrau\" = start (soft mutation)",
+        "confidence": 4,
+        "status": "needs_review",
+        "use": "Describing new activity",
+        "notes": "Confident production; mutation clear"
       }
     ]
   }

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2025-08-08T16:12:12.317Z",
+  "updated_at": "2025-08-08T17:12:13.430Z",
   "summary": {
     "days_tracked": 3,
     "total_phrases": 24,
     "status_counts": {
       "learned": 17,
-      "daily_drill": 5,
-      "needs_review": 2
+      "daily_drill": 6,
+      "needs_review": 1
     }
   },
   "by_status": {
@@ -235,6 +235,17 @@
       },
       {
         "day": 2,
+        "welsh": "Braf cwrdd â ti",
+        "english": "Nice to meet you",
+        "pronunciation": "brav koord â tee",
+        "grammar_notes": "cwrdd â = meet with. \"â\" means \"with\", not \"and\"",
+        "confidence": 3,
+        "status": "daily_drill",
+        "use": "Follow-up after introductions",
+        "notes": ""
+      },
+      {
+        "day": 2,
         "welsh": "Os gwelwch yn dda",
         "english": "Please (formal)",
         "pronunciation": "os GWELL-ooch un tha",
@@ -257,17 +268,6 @@
       }
     ],
     "needs_review": [
-      {
-        "day": 2,
-        "welsh": "Braf cwrdd â ti",
-        "english": "Nice to meet you",
-        "pronunciation": "brav koord â tee",
-        "grammar_notes": "cwrdd â = meet with. \"â\" means \"with\", not \"and\"",
-        "confidence": 3,
-        "status": "needs_review",
-        "use": "Follow-up after introductions",
-        "notes": ""
-      },
       {
         "day": 3,
         "welsh": "Dw i’n newydd ddechrau",
@@ -457,7 +457,7 @@
         "pronunciation": "brav koord â tee",
         "grammar_notes": "cwrdd â = meet with. \"â\" means \"with\", not \"and\"",
         "confidence": 3,
-        "status": "needs_review",
+        "status": "daily_drill",
         "use": "Follow-up after introductions",
         "notes": ""
       },

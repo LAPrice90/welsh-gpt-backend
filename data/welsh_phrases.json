@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-08-09T09:12:13.646Z",
+  "updated_at": "2025-08-09T10:12:12.440Z",
   "summary": {
     "days_tracked": 3,
     "total_phrases": 24,
@@ -174,7 +174,7 @@
         "confidence": 5,
         "status": "learned",
         "use": "Language learning",
-        "notes": "Good pronunciation; reinforce vowel in \"Cymraeg\""
+        "notes": ""
       },
       {
         "day": 3,
@@ -185,7 +185,7 @@
         "confidence": 5,
         "status": "learned",
         "use": "Sharing location",
-        "notes": "Mutation rule remembered; link to other place names"
+        "notes": ""
       },
       {
         "day": 3,
@@ -196,7 +196,7 @@
         "confidence": 5,
         "status": "learned",
         "use": "Asking about language ability",
-        "notes": "Strong recall; confident question form"
+        "notes": ""
       }
     ],
     "daily_drill": [
@@ -264,7 +264,7 @@
         "confidence": 3,
         "status": "daily_drill",
         "use": "Describing progress",
-        "notes": "Spelling issue with \"ychydig\"; practise hook \"you could dig\""
+        "notes": ""
       }
     ],
     "needs_review": [
@@ -277,7 +277,7 @@
         "confidence": 4,
         "status": "needs_review",
         "use": "Describing new activity",
-        "notes": "Confident production; mutation clear"
+        "notes": ""
       }
     ]
   },
@@ -505,7 +505,7 @@
         "confidence": 5,
         "status": "learned",
         "use": "Language learning",
-        "notes": "Good pronunciation; reinforce vowel in \"Cymraeg\""
+        "notes": ""
       },
       {
         "day": 3,
@@ -516,7 +516,7 @@
         "confidence": 5,
         "status": "learned",
         "use": "Sharing location",
-        "notes": "Mutation rule remembered; link to other place names"
+        "notes": ""
       },
       {
         "day": 3,
@@ -527,7 +527,7 @@
         "confidence": 5,
         "status": "learned",
         "use": "Asking about language ability",
-        "notes": "Strong recall; confident question form"
+        "notes": ""
       },
       {
         "day": 3,
@@ -538,7 +538,7 @@
         "confidence": 3,
         "status": "daily_drill",
         "use": "Describing progress",
-        "notes": "Spelling issue with \"ychydig\"; practise hook \"you could dig\""
+        "notes": ""
       },
       {
         "day": 3,
@@ -549,7 +549,7 @@
         "confidence": 4,
         "status": "needs_review",
         "use": "Describing new activity",
-        "notes": "Confident production; mutation clear"
+        "notes": ""
       }
     ]
   }

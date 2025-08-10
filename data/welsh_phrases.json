@@ -1,11 +1,11 @@
 {
-  "updated_at": "2025-08-10T06:12:12.363Z",
+  "updated_at": "2025-08-10T07:12:11.893Z",
   "summary": {
-    "days_tracked": 4,
-    "total_phrases": 29,
+    "days_tracked": 5,
+    "total_phrases": 34,
     "status_counts": {
-      "learned": 20,
-      "daily_drill": 6,
+      "learned": 24,
+      "daily_drill": 7,
       "needs_review": 3
     }
   },
@@ -230,6 +230,50 @@
         "status": "learned",
         "use": "Describing needs",
         "notes": "—"
+      },
+      {
+        "day": 5,
+        "welsh": "Mae’n bwrw eira",
+        "english": "It’s snowing",
+        "pronunciation": "myne BOO-roo AY-ra",
+        "grammar_notes": "Mae’n bwrw… idiomatic for precipitation; eira = snow",
+        "confidence": 4,
+        "status": "learned",
+        "use": "Weather",
+        "notes": ""
+      },
+      {
+        "day": 5,
+        "welsh": "Dw i wedi blino",
+        "english": "I’m tired",
+        "pronunciation": "doo ee WED-ee BLEE-no",
+        "grammar_notes": "wedi + verb = have [done]; blino = tire",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Describing state",
+        "notes": ""
+      },
+      {
+        "day": 5,
+        "welsh": "Dw i eisiau paned o de",
+        "english": "I want a cup of tea",
+        "pronunciation": "doo ee ESH-yai PAN-ed oh deh",
+        "grammar_notes": "paned = cup; o = of; de = tea",
+        "confidence": 4,
+        "status": "learned",
+        "use": "Ordering a drink",
+        "notes": ""
+      },
+      {
+        "day": 5,
+        "welsh": "Ble mae’r siop?",
+        "english": "Where’s the shop?",
+        "pronunciation": "bleh myr SHOP",
+        "grammar_notes": "Ble mae…? = Where is…?; siop = shop (loanword, no mutation)",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Asking location",
+        "notes": ""
       }
     ],
     "daily_drill": [
@@ -297,6 +341,17 @@
         "confidence": 3,
         "status": "daily_drill",
         "use": "Describing progress",
+        "notes": ""
+      },
+      {
+        "day": 5,
+        "welsh": "Sut mae’r tywydd heddiw?",
+        "english": "How’s the weather today?",
+        "pronunciation": "sit myr TAH-with HETH-yoo",
+        "grammar_notes": "mae’r = is the; tywydd = weather; heddiw = today",
+        "confidence": 3,
+        "status": "daily_drill",
+        "use": "Asking about weather",
         "notes": ""
       }
     ],
@@ -662,6 +717,63 @@
         "status": "learned",
         "use": "Describing needs",
         "notes": "—"
+      }
+    ],
+    "5": [
+      {
+        "day": 5,
+        "welsh": "Sut mae’r tywydd heddiw?",
+        "english": "How’s the weather today?",
+        "pronunciation": "sit myr TAH-with HETH-yoo",
+        "grammar_notes": "mae’r = is the; tywydd = weather; heddiw = today",
+        "confidence": 3,
+        "status": "daily_drill",
+        "use": "Asking about weather",
+        "notes": ""
+      },
+      {
+        "day": 5,
+        "welsh": "Mae’n bwrw eira",
+        "english": "It’s snowing",
+        "pronunciation": "myne BOO-roo AY-ra",
+        "grammar_notes": "Mae’n bwrw… idiomatic for precipitation; eira = snow",
+        "confidence": 4,
+        "status": "learned",
+        "use": "Weather",
+        "notes": ""
+      },
+      {
+        "day": 5,
+        "welsh": "Dw i wedi blino",
+        "english": "I’m tired",
+        "pronunciation": "doo ee WED-ee BLEE-no",
+        "grammar_notes": "wedi + verb = have [done]; blino = tire",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Describing state",
+        "notes": ""
+      },
+      {
+        "day": 5,
+        "welsh": "Dw i eisiau paned o de",
+        "english": "I want a cup of tea",
+        "pronunciation": "doo ee ESH-yai PAN-ed oh deh",
+        "grammar_notes": "paned = cup; o = of; de = tea",
+        "confidence": 4,
+        "status": "learned",
+        "use": "Ordering a drink",
+        "notes": ""
+      },
+      {
+        "day": 5,
+        "welsh": "Ble mae’r siop?",
+        "english": "Where’s the shop?",
+        "pronunciation": "bleh myr SHOP",
+        "grammar_notes": "Ble mae…? = Where is…?; siop = shop (loanword, no mutation)",
+        "confidence": 5,
+        "status": "learned",
+        "use": "Asking location",
+        "notes": ""
       }
     ]
   }
